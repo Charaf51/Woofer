@@ -1,3 +1,2 @@
 # Woofer
-Woofer HELP ME
-Need a dev for take infos for make a spoofer for laptop 
+Files from Woofer. It's Woofer X and i need a dev for take infos and make a spoof for laptops. 
